@@ -1,6 +1,6 @@
 {
   "name": "@nkzw/safe-word-list",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "author": "Christoph Nakazawa <christoph.pojer@gmail.com>",
   "description": "A word list of the most common safe English words.",
   "repository": {
