@@ -2904,7 +2904,7 @@ const words = [
   'zone',
 ];
 
-const random = (min, max) => Math.round(min + Math.random() * (max - min));
+const random = (min, max) => Math.floor(min + Math.random() * (max - min + 1));
 
 export default words;
 
