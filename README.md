@@ -1,6 +1,6 @@
 # @nkzw/safe-word-list
 
-This package contains a list of about 2900 of the most used safe words in English with at least three characters or more.
+This package contains a list of about 2700 of the most used safe words in English with at least three characters or more.
 
 ## Installation
 
