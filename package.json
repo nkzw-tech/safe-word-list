@@ -1,15 +1,17 @@
 {
   "name": "@nkzw/safe-word-list",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "author": "Christoph Nakazawa <christoph.pojer@gmail.com>",
   "description": "A word list of the most common safe English words.",
   "repository": {
     "type": "git",
     "url": "https://github.com/nkzw-tech/safe-word-list.git"
   },
-  "type": "module",
   "exports": "./index.js",
   "license": "MIT",
+  "main": "./index.js",
+  "type": "module",
+  "types": "./index.d.ts",
   "keywords": [
     "word",
     "words",
