@@ -8,6 +8,7 @@
     "url": "https://github.com/nkzw-tech/safe-word-list.git"
   },
   "type": "module",
+  "exports": "./index.js",
   "license": "MIT",
   "keywords": [
     "word",
